@@ -21,17 +21,6 @@ I work with genomics, single-cell transcriptomics and machine learning, turning 
 - 🤖 **Machine learning:** SVM for signal peptide prediction reaching 97% accuracy
 - 🤝 **BITS Biohackathon 2026** (Padova): network reverse-engineering project in a team of four
 
-<img src="assets/h-projects.png" alt="Projects" width="800">
-
-| Project | What it is |
-|---|---|
-| [**Signal peptide detection**](https://github.com/agamboa7/lab2-team10) | von Heijne model vs SVM, with engineered biochemical features, Random Forest selection and GridSearchCV. 97% accuracy. |
-| [**Breast cancer classification**](https://github.com/agamboa7/AML-basic) | End-to-end ML pipeline: EDA, feature selection, model comparison, tuned SVM. Test accuracy 0.98, ROC-AUC ≈ 0.98. |
-| [**Kunitz domain profile HMM**](https://github.com/agamboa7/kunitz-hmm-project) | Profile HMM for the Kunitz-type domain (Pfam PF00014) built from structural alignments. MCC above 0.92. |
-| [**EEC syndrome scRNA-seq**](https://agamboa7.github.io) | MSc thesis at the Bicciato Lab (University of Padova). Figures and details on my portfolio. |
-
-More projects, figures and experience on my **[portfolio](https://agamboa7.github.io)**.
-
 <img src="assets/h-skills.png" alt="Skills" width="800">
 
 <img src="assets/skills.png" alt="Skills: NGS pipelines, variant calling, bulk and single-cell RNA-seq, differential expression, R/Bioconductor, Python, SQL, scikit-learn, machine learning, SVM, Random Forest, HMMs, PCR, molecular cloning, cell culture, DNA extraction, NGS library prep, fermentation, Bash/Linux, Git, Docker, Conda, HPC" width="100%">
